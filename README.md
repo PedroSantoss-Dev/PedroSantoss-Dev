@@ -2,8 +2,8 @@
 ## Oiii! Eu sou Pedro Santos  
  <div style="display: inline_block">
   <a href="https://github.com/PedroSantoss-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSantoss-Dev&show_icons=true&theme=chartreuse-dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantoss-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedroSantoss-Dev&show_icons=true&theme=chartreuse-dark"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantoss-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
  
 
 
