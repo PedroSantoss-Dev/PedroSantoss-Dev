@@ -1,57 +1,24 @@
-<h1 align="center">
-<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=0FC0E1&width=435&lines=Hi%2C+I'm+Pedro+Santos!;full-stack+developer+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<img align="right"  height="380"  src="https://pedro-santos.vercel.app/static/media/notebook.502e8b55c00b752f8a91.png" />
+<h1 >
+   Pedro Santos
 </h1>
 
-<h3> 👨🏿‍💻 &nbsp;Sobre mim </h3>
+<h3> I'm loving with programming and solve problems using tech.</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/a-estacio/sobre-a-estacio">Estácio</a> e **desenvolvimento de software full-stack** na <a href="link da sua faculdade">Blue edtech</a> .
-- 🌱 &nbsp; Aprendendo mais sobre **Next.js e jest**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; studying  **Systems analysis and development** at <a href="https://estacio.br/a-estacio/sobre-a-estacio">Estacio</a>.
+- 💻 &nbsp; My stack: Javascript, Typescript, C#, ASP.NET, NodeJS, HTML, CSS, ReactJS and React Native.
+- 💬  &nbsp; About me: I love tech, films, Netflix series and sports.
+- 🤵🏽 &nbsp;  [Portfolio](pedro-santos.vercel.app/)
 
+<h3 align="left">Connect with me</h3>
 
-<h3 aling="center"> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-302e2e?style=for-the-badge&logo=linkedin&logoColor=4F10DB&color:FFF)](https://www.linkedin.com/in/pedro-s-santos/)
+[![Instagram](https://img.shields.io/badge/-Instagram-302e2e?style=for-the-badge&logo=instagram&logoColor=4F10DB&color:FFF)](https://www.instagram.com/pedhhenr/)
 
-[![Linkedin: Pedro Santos](https://img.shields.io/badge/-PedroSantos-333333?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pedro-s-santos/)](https://www.linkedin.com/in/pedro-s-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-ph.senasantos@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:ph.senasantos@gmail.com)](mailto:ph.senasantos@gmail.com)
+<h3 align="left">GitHub Stats</h3>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
-
-  ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<div style="display: inline_block">
-  <a href="https://github.com/PedroSantoss-Dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedroSantoss-Dev&show_icons=true&theme=chartreuse-dark"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantoss-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
- </a>
-</div>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroSantoss-Dev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=302e2e&title_color=4F10DB&text_color=FFF&border_radius=3&border_color=4F10DB&icon_color=4F10DB&theme=jolly)
 
 
 <!---
