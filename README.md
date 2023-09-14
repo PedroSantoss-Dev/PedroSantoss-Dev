@@ -1,4 +1,4 @@
-<img align="right"  height="380"  src="https://pedro-santos.vercel.app/static/media/notebook.502e8b55c00b752f8a91.png" />
+<img align="right"  height="340"  src="https://pedro-santos.vercel.app/static/media/notebook.502e8b55c00b752f8a91.png" />
 <h1 >
    Pedro Santos
 </h1>
